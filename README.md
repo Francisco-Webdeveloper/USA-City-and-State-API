@@ -3,6 +3,7 @@
 ## Background & Objectives
 In this project, we build a Search tool that returns US cities, their state and population. 
 
+https://user-images.githubusercontent.com/67716187/143317294-a566818e-5277-4444-893a-c2d860f36510.mov
 
 ## Features
 * API fetching / AJAX, 
