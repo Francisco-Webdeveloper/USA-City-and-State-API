@@ -1,4 +1,4 @@
-# USA-City-and-State-API
+# Search Tool - API Fetching
 
 ## Background & Objectives
 In this project, we build a Search tool that returns US cities, their state and population. 
